@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="49238" started-at="2018-11-22T13:08:48Z" finished-at="2018-11-22T13:09:37Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="49238" started-at="2018-11-22T13:08:48Z" finished-at="2018-11-22T13:09:37Z">
+      <class name="assessemnt.com.Task2">
+        <test-method status="PASS" signature="Navigate()[pri:1, instance:assessemnt.com.Task2@6d4d66d2]" name="Navigate" duration-ms="6187" started-at="2018-11-22T13:08:48Z" finished-at="2018-11-22T13:08:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Navigate -->
+        <test-method status="PASS" signature="Validate()[pri:2, instance:assessemnt.com.Task2@6d4d66d2]" name="Validate" duration-ms="1" started-at="2018-11-22T13:08:54Z" finished-at="2018-11-22T13:08:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate -->
+        <test-method status="PASS" signature="Click()[pri:3, instance:assessemnt.com.Task2@6d4d66d2]" name="Click" duration-ms="341" started-at="2018-11-22T13:08:54Z" finished-at="2018-11-22T13:08:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Click -->
+        <test-method status="PASS" signature="AddUser()[pri:4, instance:assessemnt.com.Task2@6d4d66d2]" name="AddUser" duration-ms="22611" started-at="2018-11-22T13:08:55Z" finished-at="2018-11-22T13:09:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddUser -->
+        <test-method status="PASS" signature="EnsureUserUnique()[pri:7, instance:assessemnt.com.Task2@6d4d66d2]" name="EnsureUserUnique" duration-ms="20060" started-at="2018-11-22T13:09:17Z" finished-at="2018-11-22T13:09:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EnsureUserUnique -->
+      </class> <!-- assessemnt.com.Task2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
